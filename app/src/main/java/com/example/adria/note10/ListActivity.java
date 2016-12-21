@@ -1,0 +1,37 @@
+package com.example.adria.note10;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+import java.util.ArrayList;
+
+public class ListActivity extends AppCompatActivity {
+    ArrayList<Note> noteList = new ArrayList<Note>();
+    // TODO: Gui Elemente müssen noch hinzugefügt werden
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        InitializeApp();
+    }
+
+    private void InitializeApp(){
+        //TODO: XML auslesen, noteList initialisieren
+        //TODO: GUI Elemente hier initialisieren
+    }
+
+    private void startNewActivity(){
+        //TODO:
+        // Neue note anlegen
+        // Edit activity starten für neue note
+        // frage: wie parameter bestimmen, der festlegt, ob zurück button oder delete button bei neuer activtiy
+    }
+
+    private void startEditActivity(){
+        //TODO: Edit activity starten: Intent i, startActivityForResult(i, ...) -> Activity und Intent Dokumentation
+    }
+
+    private void deleteNote(){
+        //TODO: note aus notelist löschen
+    }
+}
