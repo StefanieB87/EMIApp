@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_49e6d6a6ad24754dee513f6a39cfbee7080a0cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5ab37b0cbd0ebb810cb6745cd809d32f91a21d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_54e5d349481cdbf40cfafb06626548be7eac61d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0aed28f779e0d554ed7aaf6986ef92992667c90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_94cbfda0c46c7222801ae17294e4351c8f35db6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_808e9df5e86901a00ed5c7ccfbd675aad491b999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4a49efdd5f52feb5ffbdaaab2b1bb011527ca440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cf425334445dd6f872c540766e595054f2f88122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eefc48ae172469a3aec73bf25a4c9de1a79e116c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5472bfc9aedcf79916e14b4910f2537e03260037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4bb2a14710d9b5c0537deae95c8fe7752df6d754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2bbf16c066ee5a57a5ee5c526ff1ab7f38f47e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5379f35e24e450ff6177335d9a10b1ef2e6d19c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_011824d042b3a49e3b6f11dddfcd8c8467e08a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/stefaniebackasch/Documents/EMI/Praktikum/App/Note1.0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a0295ede894c50ac3debc02190539f5194ea1962.jar" />
+    </item>
+
+</items>
